@@ -25,4 +25,5 @@ func main() {
 	// hehe
 	// tambah
 	fmt.Println("testing")
+	// ok
 }
