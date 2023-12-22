@@ -21,9 +21,6 @@ func main() {
 
 	name := "unch"
 
-	fmt.Println(name)
-	// hehe
-	// tambah
-	fmt.Println("testing")
+	fmt.Println("testing", name)
 	// ok
 }
