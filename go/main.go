@@ -17,6 +17,7 @@ func main() {
 	fmt.Println(reflect.TypeOf(fourBaseEightBitInt))
 	fmt.Println(reflect.TypeOf(tenBaseSixteenBitInt))
 	fmt.Println(tenBaseSixteenBitInt)
+	fmt.Println(tenBaseSixteenBitInt)
 	// tambah
 
 }
