@@ -16,4 +16,5 @@ func main() {
 	tenBaseSixteenBitInt, _ := strconv.ParseInt(intStr, 10, 16) // no 100, and int64
 	fmt.Println(reflect.TypeOf(fourBaseEightBitInt))
 	fmt.Println(reflect.TypeOf(tenBaseSixteenBitInt))
+	// tambah
 }
