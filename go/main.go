@@ -24,5 +24,5 @@ func main() {
 	fmt.Println(name)
 
 	// tambah
-
+	fmt.Println("testing")
 }
