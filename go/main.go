@@ -18,6 +18,11 @@ func main() {
 	fmt.Println(reflect.TypeOf(tenBaseSixteenBitInt))
 	fmt.Println(tenBaseSixteenBitInt)
 	fmt.Println(tenBaseSixteenBitInt)
+
+	name := "unch"
+
+	fmt.Println(name)
+
 	// tambah
 
 }
